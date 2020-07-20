@@ -1,0 +1,301 @@
+/**
+ * @style.css
+ */
+.nodeTypex.current{
+    font-weight: bold;
+}
+.tabsx{
+    margin-top: 0!important;
+}
+body.page-search-node .tabs.tabsx, .view-filters{
+    display: none;
+}
+.field-name-field-featured-image img {
+
+    height: auto;
+}
+.teaserResources .blogboxdesc{
+    height: 180px;
+    margin-bottom: 20px;
+}
+.teaserResources .field-name-body,
+#block-views-publications-block-2 .field-items{
+    overflow: hidden;
+    height: 100px;
+}
+.view-news .views-row > .w-col {
+    padding-bottom: 20px;
+}
+.blogbox.large.test {
+    background-position: center;
+    background-size: cover;
+}
+
+#block-views-news-block .link-block._10pad {
+    margin-right: 0;
+    margin-left: 0;
+}
+.view-people .w-col{
+    float: none;
+    width: 100%!important;
+}
+.view-people .views-row{
+    display: inline-block;
+    width: 24%;
+    vertical-align: top;
+}
+.view-people .view-content{
+    text-align: center;
+}
+#block-views-publications-block-1 .reportimage {
+    bottom: -68px;
+}
+.team-drop-toggle .field-name-field-title .field-item{
+    word-wrap: break-word;
+    overflow: hidden;
+}
+.wearemenu .w-col-4{
+    padding-left: 10px;
+    padding-right: 4px;
+}
+.view-events .views-row > .w-col{
+    padding: 0px 10px 10px 0;
+}
+#block-views-news-block-8{
+    clear: both;
+}
+body.page-node-231 .region-post-content > .block{
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin-right: 3%;
+}
+.webform-client-form-956 input.form-text, 
+.webform-client-form-956 select, 
+.webform-client-form-956 textarea {
+    display: block;
+    width: 100%;
+    height: 38px;
+    padding: 8px 12px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    line-height: 1.428571429;
+    color: #333333;
+    vertical-align: middle;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+}
+ .webform-client-form-956 textarea {
+    min-height: 250px;
+    margin-top: 5px;
+     border-radius: 2px;
+     height: auto;
+}
+.webform-client-form-956 select,
+.webform-client-form-956 input.form-text.state{
+    width: 80%;
+}
+.page-node-done #block-system-main .links{
+    display: none;
+}
+.joinmenu .w-col{
+    float: left;
+    display: inline-block;
+    vertical-align: top;
+}
+.teaserResources  h3{
+    position: relative;
+    z-index: 3;
+}
+.teamcard  .w-dropdown-toggle{
+    white-space: normal;
+}
+.view-donate .views-row{
+    display: inline-block;
+    cursor: pointer;
+}
+.commerce-quick-purchase__button,
+#views-form-commerce-cart-form-default #edit-actions input,
+#commerce-checkout-form-checkout #edit-continue,
+#commerce-checkout-form-review #edit-continue{
+    background-color: #ff2c78;
+    border-radius: 2px;
+    -webkit-transition: background-color 200ms ease;
+    transition: background-color 200ms ease;
+    font-family: Oswald, sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 9px 15px;
+    border: 0;
+    color: #fff;
+    margin-right: 10px;
+}
+#commerce-checkout-form-checkout .form-wrapper {
+	margin-bottom: 0px;
+	padding-top: 0;
+}
+.donatebutton.active {
+    background-color: #e5007d;
+}
+.block-commerce-quick-purchase .form-item-sku{
+    opacity: 0;
+    height: 0;
+    margin: 0;
+    padding: 0;
+}
+.view-commerce-cart-summary .view-content,
+#edit-cart-contents legend{
+    display: none;
+}
+.commerce-order-handler-area-order-total .commerce-price-formatted-components,
+table.checkout-review,
+#views-form-commerce-cart-form-default table{
+	width: 100%;
+	margin-left: auto;
+}
+#commerce-checkout-form-checkout input.form-text,
+#commerce-checkout-form-review input.form-text{
+	display: block;
+	width: 100%;
+	height: 38px;
+	padding: 8px 12px;
+	margin-bottom: 10px;
+	font-size: 14px;
+	line-height: 1.428571429;
+	color: #333333;
+	vertical-align: middle;
+	background-color: #ffffff;
+	border: 1px solid #cccccc;
+}
+#commerce-checkout-form-review select{
+	height: 38px;
+	padding: 8px 12px;
+	margin-bottom: 10px;
+	font-size: 14px;
+	line-height: 1.428571429;
+	color: #333333;
+	vertical-align: middle;
+	background-color: #ffffff;
+	border: 1px solid #cccccc;
+}
+
+#block-block-5--2 {
+	overflow: hidden;
+	background-color: #0876d1;
+	background-image: -webkit-linear-gradient(0deg, rgba(0, 93, 170, .59), #005daa), url('images/ac9ff722ccee9f796dea38c810f03e02_L.jpg');
+	background-image: linear-gradient(90deg, rgba(0, 93, 170, .59), #005daa), url('images/ac9ff722ccee9f796dea38c810f03e02_L.jpg');
+	background-position: 0px 0px, 0px 50%;
+	background-size: auto, cover;
+	color: #fff;
+}
+#block-block-5--2 .CheckOut{
+    display: none;
+}
+#commerce-checkout-form-checkout,
+#views-form-commerce-cart-form-default,
+#commerce-checkout-form-review,
+#commerce-checkout-form-complete{
+    margin: 30px auto;
+    max-width: 600px;
+    padding: 0 20px;
+}
+
+#mailchimp-signup-subscribe-block-quarterly-newsletter-form .form-item{
+    display: inline-block;
+    vertical-align: top;
+    width: 47%;
+    margin: 3px 1%;
+    float: left;
+}
+#mailchimp-signup-subscribe-block-quarterly-newsletter-form #edit-actions {
+
+    float: left;
+    padding: 0;
+    margin: 2px 1%;
+
+}
+
+.commerce-add-to-cart .form-submit{
+    background-color:  #e5007d;
+    border-radius: 2px;
+    -webkit-transition: background-color 200ms ease;
+    transition: background-color 200ms ease;
+    font-family: Oswald, sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 9px 15px;
+    border: 0;
+    color:
+    #fff;
+    margin-right: 10px;
+}
+.form-item-line-item-fields-commerce-donate-amount-und-select .select-or-other-select > div {
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+    display: inline-block;
+    padding: 9px 10px;
+	border-radius: 2px;
+	background-color: #fff;
+	-webkit-transition: background-color 200ms ease;
+	transition: background-color 200ms ease;
+	font-family: Oswald, sans-serif;
+	color: #005daa;
+	font-size: 18px;
+	line-height: 20px;
+	font-weight: 400;
+	text-transform: uppercase;
+}
+.form-item-line-item-fields-commerce-donate-amount-und-select .select-or-other-select > div:hover,
+.form-type-radio.form-item-line-item-fields-commerce-donate-amount-und-select.active{
+	background-color: #e5007d;
+	text-decoration: none;
+}
+.form-item.form-type-radios.form-item-line-item-fields-commerce-donate-amount-und-select > label,
+.form-item.form-type-radios.form-item-line-item-fields-commerce-donate-amount-und-select input.form-radio{
+    display: none;
+}
+.form-type-textfield.form-item-line-item-fields-commerce-donate-amount-und-other > input.select-or-other-other.form-text{
+    width: 100%;
+    font-family: Oswald, sans-serif;
+    font-weight: 400;
+    color: #005daa;
+    padding: 9px 10px;
+	border-radius: 2px;
+    border:0;
+    font-size: 18px;
+}
+.commerce-add-to-cart .form-wrapper {
+	margin-bottom: 0px;
+	padding-top: 0;
+}
+#mc-embedded-subscribe {
+	border: 0px solid #ABB0B2!important;
+	border-radius: 0px!important;
+    margin: 0 0 10px!important;
+}
+
+.mchimp-form-padding {
+    padding-top: 10px;
+    color: #333;
+}
+
+@media (max-width: 479px) {
+    body.page-node-231 .region-post-content > .block {
+        display: block;
+        vertical-align: top;
+        width: 90%;
+        margin-right: 0%;
+        margin: 0 auto;
+    }
+    .country.form-select{
+        width: 100%;
+    }
+}
+
+.work-3-col {
+    display: flex;
+    justify-content: center;
+  }

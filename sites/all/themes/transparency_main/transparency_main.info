@@ -1,0 +1,42 @@
+name = Transparency International Main site
+description = Designed by 89up and developed by Fa.
+core = 7.x
+engine = phptemplate
+
+;JAVASCRIPTS
+scripts[] = functions.js
+
+; STYLESHEETS
+stylesheets[all][] = css/normalize.css
+stylesheets[all][] = css/webflow.css
+stylesheets[all][] = css/transparencyukdemo.webflow.css
+stylesheets[all][] = style.css
+
+; REGIONS
+regions[header] = Header
+regions[highlighted] = Highlighted
+regions[pre-content] = Pre content
+regions[content] = Content
+regions[sidebar_first] = Right sidebar
+regions[post-content] = Post content
+regions[footer] = Footer
+regions[help] = Help
+regions[page_top] = Page top
+regions[page_bottom] = Page bottom
+
+; FEATURES
+features[] = logo
+features[] = name
+features[] = search
+features[] = favicon
+features[] = main_menu
+features[] = secondary_menu
+
+; SETTINGS
+
+; Information added by drupal.org packaging script on 2017-08-09
+version = "7.x-1.0"
+core = "7.x"
+project = “transparency_main”
+datestamp = "1479921632"
+
